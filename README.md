@@ -4,7 +4,7 @@ This is the official repository of "One Embedding to Predict Them All: Visible a
 
 The Bidirectional Encoder Face representation from image Transformers (BEFiT) is a model that leverages the multi-attention transformer mechanisms to capture local and global features and produce a multi-purpose face embedding.
 
-[transformers_fusion_pipeline.pdf](https://github.com/nmirabeth/BEFiT/files/14918909/transformers_fusion_pipeline.pdf)
+![transformers_fusion_pipeline_page-0001](https://github.com/nmirabeth/BEFiT/assets/48354399/fa4d5ac5-5d32-4d06-86a9-6a2e7b2e7900)
 
 The unique face embedding produced by BEFiT enables the estimation of different demographics without having to re-train the model for each soft-biometric trait.
 Our model is based on the BEiT [1] implementation. We train BEFiT for FR on more than 200K RGB face images from the CelebA [2] dataset. After that, BEFiT is fine-tuned with the thermal faces from the TUFTS [3] database to perform FR in thermal spectra. We will refer to the different versions of BEFiT as BEFiT-V and BEFiT-T depending on the spectra in which they work.
