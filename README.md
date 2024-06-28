@@ -31,7 +31,7 @@ Our model is based on the BEiT [1] implementation. We train BEFiT for FR on more
 
 # Citing
 
--- Coming soon --
+Mirabet-Herranz, N., Galdi, C., & Dugelay, J. L. (2024). One Embedding to Predict Them All: Visible and Thermal Universal Face Representations for Soft Biometric Estimation via Vision Transformers. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 1500-1509).
 
 # Acknowledgement
 
