@@ -1,6 +1,6 @@
 # BEFiT
 
-This is the official repository of "One Embedding to Predict Them All: Visible and Thermal Universal Face Representations for Soft Biometric  Estimation via Vision Transformers" accepted at IEEE Biometrics Workshop at CVPR 2024.
+This is the official repository of "One Embedding to Predict Them All: Visible and Thermal Universal Face Representations for Soft Biometric  Estimation via Vision Transformers" presented at IEEE Biometrics Workshop at CVPR 2024.
 
 The Bidirectional Encoder Face representation from image Transformers (BEFiT) is a model that leverages the multi-attention transformer mechanisms to capture local and global features and produce a multi-purpose face embedding.
 
